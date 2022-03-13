@@ -1,0 +1,13 @@
+
+.place__website {
+  grid-area: place__website;
+}
+
+@media all and (min-width: 320px) and (max-width: 767px) {
+  .place__website {
+    margin:0 16px;
+  }
+}
+
+
+

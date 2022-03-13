@@ -1,0 +1,19 @@
+
+.place__website_url-heading {
+  margin: 0 auto 12px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #AAAAAA;
+}
+
+ @media all and (min-width: 767px) and (max-width: 1023px) {
+  .place__website_url-heading {
+    line-height: 12px;
+  }
+}
+
